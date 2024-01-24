@@ -38,7 +38,6 @@ Buscamos la opción : pipeline
 ok
 
 ```
-
 # Traer el código. Deberemos tener un git con la configuración previamente hecha
 ```bash
 stage('clean') {
